@@ -2,6 +2,10 @@
 
 > An awesome project.
 
+[- less -]
+
+[+ more +]
+
 # Headline 2
 
 这里我计划放一段代码做展示
